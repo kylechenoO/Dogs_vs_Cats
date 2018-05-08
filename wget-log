@@ -1,8 +1,0 @@
---2018-05-07 21:33:56--  https://storage.googleapis.com/kaggle-competitions-data/kaggle/5441/test.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1525872601&Signature=aHXH%2B1qiQOk5ny9b3YrivSZQB23neGcHxVubwp6olX8SPz6V5wfkqpbs2ncy%2B%2BLozRBLx%2BG86KdjqsuGuo%2FbYYjMwwh%2F1784dKFaNlFxBR3x8jIn6ji221MWwCkX9Cij20xC9ECpaXWBap8jYypRlAp%2Ff8AlTJF1zY8xQ84su8Gs2y8tDVs9Gt0OuiKu4dNJ017ZPjclPYNjm2%2BCG1GcpgCmZy6qkqvW%2FsuMPr%2BLcGFB1X0xrqYLxmX1JJGlikoZ%2FjQiJ5ZYjIhnLm05BhWdegChS24hnDyF4Mo4DoI9r9NBpRIPqF3kW%2BSZ0ci%2FRgutEvqr7OXcuRpOIR4pPYVZdw%3D%3D
-Resolving storage.googleapis.com... 216.58.200.48
-Connecting to storage.googleapis.com|216.58.200.48|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 284478493 (271M) [application/zip]
-Saving to: 'DataSet/test.zip'
-
-DataSet/test.zip      1%[                    ]   3.69M  97.3 B/s    eta 33d 8h 
